@@ -1,1 +1,1 @@
-# DjangoTutorial
+# DjangoTutorial python manage.py runserver
